@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "901287606927",
+    "firebase_url": "https://cabbooking-20eda.firebaseio.com",
+    "project_id": "cabbooking-20eda",
+    "storage_bucket": "cabbooking-20eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901287606927:android:fb12a8cc8a0d2e8b",
+        "android_client_info": {
+          "package_name": "com.example.user.cabbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901287606927-dpovkfj4v5t3ejke8haphjc8k0pvl87s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.cabbooking",
+            "certificate_hash": "aa5028f3c5701adc08864dd4a1834c9615f5265a"
+          }
+        },
+        {
+          "client_id": "901287606927-ijb2r3pcacrsmvr2ki86akrfhl48iva1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfNctCvjEyu9muPUYobEj-kQifjidKfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901287606927-ijb2r3pcacrsmvr2ki86akrfhl48iva1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901287606927:android:5e97f9c1ba940263",
+        "android_client_info": {
+          "package_name": "com.example.user.transporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901287606927-rjn5k17f6pfamf0aip5mr9rdqj50om50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.transporter",
+            "certificate_hash": "aa5028f3c5701adc08864dd4a1834c9615f5265a"
+          }
+        },
+        {
+          "client_id": "901287606927-ijb2r3pcacrsmvr2ki86akrfhl48iva1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfNctCvjEyu9muPUYobEj-kQifjidKfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901287606927-ijb2r3pcacrsmvr2ki86akrfhl48iva1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
